@@ -1,11 +1,11 @@
 # Laravel 5.4 integrated with Admin LTE
-Laravel is most popular PHP framework. This project is Laravel 5.4 integrated with Bootstrap Admin/Dashboard Template Admin LTE.
+This project is **Laravel 5.4.28** integrated with **Admin LTE-2.3.11**
 
 ## How to Install
-- Download this repo
-- Extract to folder
+- Download this repo & extract or clone using Git
 - Install project dependency by running `composer install`
-- Run simple web server `php artisan serve`
-- Open on `http:\\localhost:8000`
+- Copy `.env.example` to `.env`
+- Run `php artisan serve`
+- Open `localhost:8000\admin`
 
 License [MIT](http://opensource.org/licenses/MIT)
